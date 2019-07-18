@@ -1,10 +1,12 @@
 # fuli
 Respond to application errors with configurable notifiers
 
+[![Gem Version](https://badge.fury.io/rb/fuli_the_guard.svg)](https://badge.fury.io/rb/fuli_the_guard)
+
 ### Install
 
 ```ruby
-gem install fuli
+gem install fuli_the_guard
 ```
 
 ### Configuration
