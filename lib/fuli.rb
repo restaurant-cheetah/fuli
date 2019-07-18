@@ -1,5 +1,8 @@
 # frozen_string_literal: true
 
+require 'fuli/config'
+require 'fuli/version'
+
 module Fuli
   Error = Class.new(StandardError)
 
