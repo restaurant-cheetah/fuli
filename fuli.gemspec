@@ -3,7 +3,7 @@
 require File.expand_path("../lib/fuli/version", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "fuli"
+  s.name        = "fuli_the_guard"
   s.version     = Fuli::VERSION
   s.platform    = Gem::Platform::RUBY
   s.licenses    = %w(MIT)

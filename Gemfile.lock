@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fuli (0.1.0)
+    fuli_the_guard (0.1.0)
 
 GEM
   remote: http://rubygems.org/
@@ -52,7 +52,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  fuli!
+  fuli_the_guard!
   pry
   pry-nav
   rake
