@@ -49,4 +49,10 @@ RSpec.describe(Fuli) do
       expect(error_proc).to receive(:call).with(error, message)
     end
   end
+
+  context 'when no logger defined' do
+    it 'raises error' do
+      expect { Fuli.configure { |c| c.logger = nil } }.to raise_error(Fuli::Error)
+    end
+  end
 end

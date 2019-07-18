@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["evnomadx@gmail.com"]
   s.homepage    = "https://github.com/restaurant-cheetah/fuli"
   s.summary     = "Respond to application errors with configurable notifiers."
-  s.description = "Respond to application errors with configurable notifiers."  
+  s.description = "Respond to application errors with configurable notifiers."
 
   all_files = %x(git ls-files).split("\n")
   test_files = %x(git ls-files -- {test,spec,features}/*).split("\n")
