@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fuli_the_guard (0.1.0)
+    fuli_the_guard (0.1.1)
 
 GEM
   remote: http://rubygems.org/

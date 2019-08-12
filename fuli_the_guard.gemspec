@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.licenses    = %w(MIT)
   s.authors     = ["Anton Magids"]
-  s.email       = ["evnomadx@gmail.com"]
+  s.email       = ["evilnomadx@gmail.com"]
   s.homepage    = "https://github.com/restaurant-cheetah/fuli"
   s.summary     = "Respond to application errors with configurable notifiers."
   s.description = "Respond to application errors with configurable notifiers."
